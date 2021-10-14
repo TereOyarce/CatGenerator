@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@700&display=swap');
+body{
+  background-color: #F5F5F5;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h2{
+  padding: 0.8rem;
+  font-family: 'Delius Unicase', cursive;
+    color: #364F6B;
+}
+img {
+  max-width: 250px;
+  max-height: 250px;
+
+}
+button {
+  appearance: none;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #FC5185;
+  color: antiquewhite;
+  margin-top: 1rem;
+}
+button:hover {
+ background-color:  #3FC1C9;
+  cursor: pointer;
+}
+
+@media (max-width: 480px){
+  .container {
+    margin-top: 5rem;
+  }
+h2{
+  text-align: center;
+  margin-bottom: 2rem;
+}
+button {
+padding: 1rem;
+}
+img {
+  max-width: 350px;
+  max-height: 350px;
+
+}
+}
