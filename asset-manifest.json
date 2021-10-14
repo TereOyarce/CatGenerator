@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catgenerator/static/css/main.5ba5da95.chunk.css",
+    "main.js": "/catgenerator/static/js/main.c1cbda90.chunk.js",
+    "main.js.map": "/catgenerator/static/js/main.c1cbda90.chunk.js.map",
+    "runtime-main.js": "/catgenerator/static/js/runtime-main.0a320b6b.js",
+    "runtime-main.js.map": "/catgenerator/static/js/runtime-main.0a320b6b.js.map",
+    "static/js/2.09f78f00.chunk.js": "/catgenerator/static/js/2.09f78f00.chunk.js",
+    "static/js/2.09f78f00.chunk.js.map": "/catgenerator/static/js/2.09f78f00.chunk.js.map",
+    "static/js/3.1dfdb784.chunk.js": "/catgenerator/static/js/3.1dfdb784.chunk.js",
+    "static/js/3.1dfdb784.chunk.js.map": "/catgenerator/static/js/3.1dfdb784.chunk.js.map",
+    "index.html": "/catgenerator/index.html",
+    "static/css/main.5ba5da95.chunk.css.map": "/catgenerator/static/css/main.5ba5da95.chunk.css.map",
+    "static/js/2.09f78f00.chunk.js.LICENSE.txt": "/catgenerator/static/js/2.09f78f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a320b6b.js",
+    "static/js/2.09f78f00.chunk.js",
+    "static/css/main.5ba5da95.chunk.css",
+    "static/js/main.c1cbda90.chunk.js"
+  ]
+}
