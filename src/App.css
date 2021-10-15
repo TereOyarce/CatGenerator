@@ -6,6 +6,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 5rem;
 }
 h2{
   padding: 0.8rem;
@@ -13,8 +14,8 @@ h2{
     color: #364F6B;
 }
 img {
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 400px;
+  max-height: 400px;
 
 }
 button {
@@ -24,6 +25,7 @@ button {
   background-color: #FC5185;
   color: antiquewhite;
   margin-top: 1rem;
+  padding: 1rem;
 }
 button:hover {
  background-color:  #3FC1C9;
