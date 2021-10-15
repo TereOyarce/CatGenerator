@@ -12,10 +12,13 @@ h2{
   padding: 0.8rem;
   font-family: 'Delius Unicase', cursive;
     color: #364F6B;
+    margin-bottom: 1rem;
+    font-size: 3rem;
 }
 img {
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 500px;
+  max-height: 500px;
+  margin-top: 1rem;
 
 }
 button {
@@ -26,6 +29,9 @@ button {
   color: antiquewhite;
   margin-top: 1rem;
   padding: 1rem;
+  text-transform: uppercase;
+    font-weight: bold;
+  
 }
 button:hover {
  background-color:  #3FC1C9;
